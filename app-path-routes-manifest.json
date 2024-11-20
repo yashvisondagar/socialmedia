@@ -1,0 +1,1 @@
+{"/_not-found":"/_not-found","/favicon.ico/route":"/favicon.ico","/api/clerk/route":"/api/clerk","/(app)/friends/page":"/friends","/(app)/profile/[id]/page":"/profile/[id]","/(app)/page":"/","/(auth)/sign-in/[[...sign-in]]/page":"/sign-in/[[...sign-in]]","/(auth)/sign-up/[[...sign-up]]/page":"/sign-up/[[...sign-up]]"}
